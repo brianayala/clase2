@@ -10,7 +10,7 @@ int i;
 int numeroMax;
 int numeroMin;
 for(i=0;i<10;i++;) {
-printf("ingrese el numero 1");
+printf("ingrese el numero 1ss");
 scanf("%d",&numeroUno);
 if (i==0){
 numeroMax=numeroUno;
